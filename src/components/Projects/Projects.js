@@ -27,7 +27,7 @@ function Projects() {
               isBlog={false}
               title="Memory Card Game"
               description="A memory card game, often known as a matching or concentration game, is a fun and educational activity designed to test and improve a player’s memory skills. The game typically consists of a set of cards laid face down on a surface, each card having a matching pair."
-              ghLink="https://github.com/soumyajit4419/Chatify"
+              ghLink="https://github.com/TanviBurji/Memory-Card-Game"
               demoLink="https://chatify-49.web.app/"
             />
           </Col>
