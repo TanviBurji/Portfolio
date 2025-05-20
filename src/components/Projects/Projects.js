@@ -37,7 +37,7 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title="Ai-Career-Guidance"
-              description=""
+              description="An AI Career Guidance Web App is an intelligent online platform designed to help users make informed career decisions using artificial intelligence technologies. The app typically collects user inputs such as educational background, skills, interests, and career goals, and then uses machine learning algorithms to analyze this data and suggest personalized career paths. It may offer features like aptitude tests, skill assessments, resume reviews, and real-time job market trends to guide users toward the most suitable professions."
               ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
               demoLink="https://blogs.soumya-jit.tech/"
             />
