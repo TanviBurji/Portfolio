@@ -24,7 +24,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C++, Javascript and Go. </b>
+                <b className="purple"> Java, Python, HTML, CSS, JavaScript, C, MySQL </b>
               </i>
               <br />
               <br />
@@ -52,11 +52,7 @@ function Home2() {
               </i>
             </p>
           </Col>
-          <Col md={4} className="myAvtar">
-            <Tilt>
-              <img src={myImg} className="img-fluid" alt="avatar" />
-            </Tilt>
-          </Col>
+          
         </Row>
         <Row>
           <Col md={12} className="home-about-social">
